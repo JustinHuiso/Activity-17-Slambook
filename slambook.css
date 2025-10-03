@@ -1,0 +1,37 @@
+body{
+    background-color: beige;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex; 
+    justify-content: center;
+    word-spacing: 10px;
+    line-height: 30px;
+    align-items: center;
+}
+
+form{
+    
+    background-color: cadetblue;
+    border: solid black;
+    border-radius: 30px;
+    border-width: 15px;
+    box-shadow: 30px;
+    box-sizing: border-box;
+    padding-top:15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+
+    
+}
+
+.text-area{
+    padding: 3px;
+    background-color: gray; 
+    box-shadow: 0 4px 8px;
+}
